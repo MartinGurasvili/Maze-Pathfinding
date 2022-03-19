@@ -13,7 +13,7 @@
     if you make any cool mazes please feel free to contribute
     <br />
     <br>
-    <a href="https://github.com/MartinGurasvili/Python-GitHub-Follower-Bot/releases/download/v1.0.0/GitHub-Followers.py"><h3>Try it now</h3></a>
+    <a href="https://github.com/MartinGurasvili/Maze-Pathfinding/archive/refs/heads/main.zip"><h3>Try it now</h3></a>
     <br/>
 </div>
 <div align="center">
