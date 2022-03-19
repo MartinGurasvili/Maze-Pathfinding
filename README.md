@@ -10,6 +10,7 @@
 <p align="center">
     <br>
     This is a Maze Pathfinding Application that includes the A* Algo as-well as the BFS Algo
+  <br>
     if you make any cool mazes please feel free to contribute
     <br />
     <br>
