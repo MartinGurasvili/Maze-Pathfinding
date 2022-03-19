@@ -39,17 +39,17 @@ def savegrid():
 def loadgrid(index):
     global grid
     if(index ==0):
-        grid = np.loadtxt(r"./Downloads/Maze Algo/maze.txt").tolist()
+        grid = np.loadtxt(r"./Downloads/Maze-Pathfinding-main/maze.txt").tolist()
     elif(index ==1):
-        grid = np.loadtxt(r'./Downloads/Maze Algo/Maze1/maze.txt').tolist()
+        grid = np.loadtxt(r'./Downloads/Maze-Pathfinding-main/Maze1/maze.txt').tolist()
     elif(index ==2):
-        grid = np.loadtxt(r'./Downloads/Maze Algo/Maze2/maze.txt').tolist()
+        grid = np.loadtxt(r'./Downloads/Maze-Pathfinding-main/Maze2/maze.txt').tolist()
     elif(index ==3):
-        grid = np.loadtxt(r'./Downloads/Maze Algo/Maze3/maze.txt').tolist()
+        grid = np.loadtxt(r'./Downloads/Maze-Pathfinding-main/Maze3/maze.txt').tolist()
     elif(index ==4):
-        grid = np.loadtxt(r'./Downloads/Maze Algo/Maze4/maze.txt').tolist()
+        grid = np.loadtxt(r'./Downloads/Maze-Pathfinding-main/Maze4/maze.txt').tolist()
     elif(index ==5):
-        grid = np.loadtxt(r'./Downloads/Maze Algo/Maze5/maze.txt').tolist()
+        grid = np.loadtxt(r'./Downloads/Maze-Pathfinding-main/Maze5/maze.txt').tolist()
         
 def bfs_shortestpath(maze, path=""):
     global grid
