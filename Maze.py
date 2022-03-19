@@ -35,7 +35,7 @@ neighbour=[]
 
 def savegrid():
     global grid
-    np.savetxt(r"./Downloads/Maze Algo/maze.txt",grid)
+    np.savetxt(r"./Downloads/Maze-Pathfinding-main/maze.txt",grid)
 def loadgrid(index):
     global grid
     if(index ==0):
