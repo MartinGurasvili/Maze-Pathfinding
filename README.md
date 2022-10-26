@@ -14,8 +14,9 @@
     if you make any cool mazes please feel free to contribute
     <br />
     <br>
-    <a href="https://github.com/MartinGurasvili/Maze-Pathfinding/archive/refs/heads/main.zip"><h3>Try it now</h3></a>
+    <a href="https://github.com/MartinGurasvili/Maze-Pathfinding/archive/refs/heads/main.zip"><strong>Try it now</strong></a>
     <br/>
+    <br>
 </div>
 <div align="center">
     <img style="width:60%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/159134926-d52bebd6-bf70-42af-9a73-ad95961199c2.gif">
@@ -67,7 +68,7 @@ To save your Maze - press S - this will save it into a file - so can be loaded i
 To load in your Maze - press L
  <br></br>
  <br> 
-<img style="width:60%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/159137534-8dc8ff96-44fa-48a5-94b4-2ff41f3eadc7.gif">
+<img style="width:70%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/159137534-8dc8ff96-44fa-48a5-94b4-2ff41f3eadc7.gif">
 
 
 
