@@ -43,6 +43,7 @@ To Find a path in the maze press Enter - if no solution is available - no path w
 <br>
 <img style="width:60%"  alt="Screenshot 2022-02-26 at 7 11 24 pm" src="https://user-images.githubusercontent.com/76784461/159136955-3adafaa5-1922-4c33-9ecc-b028b307ed4a.gif">
 
+
 <h2>Wall Tool</h2>
 Holding Down the left mouse button will draw walls
 
